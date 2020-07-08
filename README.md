@@ -1,6 +1,4 @@
 # js-drumkit
-JavaScript practice for The Odin Project
+JavaScript practice for The Odin Project, from [JavaScript30 Series](https://github.com/wesbos/JavaScript30)
 
 https://johnrix.dev/drumkit
-
-https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
