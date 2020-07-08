@@ -1,5 +1,5 @@
 # js-drumkit
-Javascript practice for The Odin Project
+JavaScript practice for The Odin Project
 
 https://johnrix.dev/drumkit
 
